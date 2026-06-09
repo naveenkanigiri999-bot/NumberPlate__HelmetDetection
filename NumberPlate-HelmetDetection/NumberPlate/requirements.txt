@@ -1,0 +1,31 @@
+pip install numpy==1.24.4
+pip install torch==2.1.2
+pip install torchvision==0.16.21
+pip install opencv-python==4.8.1.78
+pip install pillow==10.2.0
+pip install easyocr==1.7.1
+pip install pandas==2.0.3
+pip install matplotlib==3.7.3
+pip install seaborn==0.13.2
+pip install tqdm==4.66.1
+pip install pyyaml==6.0.1
+pip install requests==2.31.0
+pip install scipy==1.11.4
+pip install thop==0.1.1.post2209072238
+pip install setuptools==65.5.0
+pip install wheel==0.41.3
+pip install gitpython==3.1.40
+
+install from 4 onwords after this completion ok i'll just come before it complete ok ok ok thank you
+
+
+if afte the application failed to run do below
+
+1. pip install setuptools==65.5.0 ( it solves problem)
+
+2. incase image not showup run pip install opencv-python==4.8.1.78 
+
+ok ok helmet , now showing ok
+
+cd .. for going back to main folder
+

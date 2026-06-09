@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/custom_data/images/train/ 
+val:  /content/drive/MyDrive/custom_data/images/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Plate"]
