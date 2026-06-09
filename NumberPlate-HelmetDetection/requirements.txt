@@ -1,0 +1,16 @@
+# Stable dependencies for Python 3.10
+# Keeps setuptools pinned so pkg_resources remains available for YOLOv5/torch hub.
+
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.2.3
+torch>=1.13,<2.6
+torchvision>=0.14,<0.21
+easyocr==1.7.1
+Pillow==10.4.0
+pytesseract==0.3.10
+setuptools>=65,<81
+wheel>=0.42,<1.0
+
+# For pytesseract, install system Tesseract OCR as well:
+# https://github.com/tesseract-ocr/tesseract

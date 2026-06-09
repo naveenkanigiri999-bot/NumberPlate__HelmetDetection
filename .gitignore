@@ -1,0 +1,33 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+nh/
+venv/
+ENV/
+env/
+.venv/
+
+# Environment files
+*.env
+*.venv
+
+# Package distribution
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
